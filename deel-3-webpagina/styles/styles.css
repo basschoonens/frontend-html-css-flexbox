@@ -69,8 +69,6 @@ main{
     justify-content: flex-end;
     border-radius: 4px;
     padding: 15px;
-    /*text-align: center;*/
-    /*flex-basis: auto;*/
     flex-grow: 1;
     flex-shrink: 1;
     height: 350px;
